@@ -1,0 +1,23 @@
+{
+  "name": "simple-clock",
+  "version": "1.0.0",
+  "description": "a simple digital clock in raw html and css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RussWard/simple-clock.git"
+  },
+  "author": "Russ Ward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RussWard/simple-clock/issues"
+  },
+  "homepage": "https://github.com/RussWard/simple-clock#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
